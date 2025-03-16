@@ -32,6 +32,6 @@ Unity 2D casual game (3 match), Asynchronous programming (async/await)
 Unity 2D mobile game, Using acceleration sensors  
 🔗 https://github.com/Imnyeong/delivery-king-thunderbolt
 
-#### Roguelike Toy-project [2024] ![icon](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+#### Roguelike Toy Project [2024] ![icon](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 2D Roguelike game, Auto-tracking logic & Simple gacha  
-🔗  https://github.com/Imnyeong/Roguelike  
+🔗  https://github.com/Imnyeong/roguelike-toy-project  
