@@ -23,6 +23,7 @@ Unity 2D gacha simulator, Using open API(pokeAPI)
 #### Dungeon Shooter [2024] ![icon](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![icon](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![icon](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 Unity 3D multi-play FPS game, WebSocket, RESTful API (Node.js), Database(Firebase)  
 🔗 https://github.com/Imnyeong/dungeon-shooter
+📺 https://youtu.be/-ypxnZE-ano?si=Sfs8W1C5OUFbQzDw
 
 #### PopNyang [2024] ![icon](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 Unity 2D casual game (3 match), Asynchronous programming (async/await)  
